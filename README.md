@@ -5,13 +5,13 @@
 
 I am blessed with ✨ **Problem Solving**  ✨ skill
 
-Here are some ideas to get you started:
+### About Me
 
 - 🔭 I’m a full stack developer
 - 🌱 I’m currently learning backend 
 - 👯 I’m looking to collaborate on project which makes life of the people better
 - 🤔 I’m looking for an opportunity where I can use my technical skills, interpersonal skills and passion to create something which is asset to the company and makes life of people easier
-- 💬 Ask me about ...
+- 💬 Ask me about Data Structure, Algorithms, JavaScript, HTML, CSS, REACT, REDUX, MongoDB, MUI, Chackra UI
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
