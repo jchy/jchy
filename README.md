@@ -16,3 +16,11 @@ I am blessed with ✨ **Problem Solving**  ✨ skill
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- OTHER -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchy&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchy&langs_count=8)](https://github.com/jchy/github-readme-stats)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchy&show_icons=true) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jchy&repo=github-readme-stats)](https://github.com/jchy/github-readme-stats)
