@@ -1,12 +1,6 @@
 ### Hi there 👋
-![gifs](https://user-images.githubusercontent.com/91217491/150346571-728d79a9-ae34-47b8-96dc-1f628867f0ee.gif)
-
-![me3nxdmslvhtffb2nn4c](https://user-images.githubusercontent.com/91217491/150348230-84abe871-8183-40a8-a01c-3b6f690f349d.gif)
 
 ![full-stack-development](https://user-images.githubusercontent.com/91217491/150348574-01a09ceb-0a07-4909-b499-0c255882c52c.gif)
-
-![web_developer](https://user-images.githubusercontent.com/91217491/150348686-c4f509f1-2e2d-4557-8475-62901cd4d406.gif)
-
 
 **jchy/jchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
