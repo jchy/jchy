@@ -16,6 +16,8 @@ I am blessed with ✨ **Problem Solving**  ✨ skill
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=jchy&label=Profile%20views&color=0e75b6&style=flat" alt="jchy" /> </p>
+- <p align="left"> <a href="https://twitter.com/recjaswantcse" target="blank"><img src="https://img.shields.io/twitter/follow/recjaswantcse?logo=twitter&style=for-the-badge" alt="recjaswantcse" /></a> </p>
+
 
 <!-- OTHER -->
 
@@ -39,8 +41,6 @@ I am blessed with ✨ **Problem Solving**  ✨ skill
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jchy" alt="jchy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/recjaswantcse" target="blank"><img src="https://img.shields.io/twitter/follow/recjaswantcse?logo=twitter&style=for-the-badge" alt="recjaswantcse" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
