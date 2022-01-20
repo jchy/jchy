@@ -24,3 +24,14 @@ I am blessed with ✨ **Problem Solving**  ✨ skill
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchy&show_icons=true) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jchy&repo=github-readme-stats)](https://github.com/jchy/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchy)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- 
+<a href="https://github.com/jchy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jchy&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/jchy/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jchy&repo=convoychat" />
+</a> -->
