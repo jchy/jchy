@@ -5,7 +5,9 @@
 
 I am blessed with ✨ **Problem Solving**  ✨ skill
 
-- To checkout my portfolio [Click here](https://jaswants-portfolio.netlify.app/#/).
+- To checkout my portfolio [Click here]().
+<!-- - To checkout my portfolio [Click here](https://jaswants-portfolio.netlify.app/#/). -->
+
 
 ### About Me
 
