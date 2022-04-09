@@ -13,7 +13,7 @@ I am blessed with ✨ **Problem Solving**  ✨ skill
 - 🔭 I’m a full stack developer
 - 🌱 I’m currently looking for an opportunity to make impact on the company's growth as well as personal growth by contributing technical and interpersonal skills. 
 - 👯 I’m looking to collaborate on project which makes life of the people better
-- 💬 Ask me about Data Structure, Algorithms, JavaScript, HTML, CSS, REACT, REDUX, MongoDB, MUI, Chackra UI
+- 💬 Ask me about Data Structure, Algorithms, JavaScript, HTML, CSS, REACT, REDUX, MUI, NodeJS, ExpressJS,MongoDB
 - 📫 How to reach me: ...
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
