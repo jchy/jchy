@@ -5,8 +5,8 @@
 
 I am blessed with ✨ **Problem Solving**  ✨ skill
 
-- checkout my portfolio [Click here](https://jaswants-portfolio.netlify.app/#/).
-- To checkout my resume [Click here](https://drive.google.com/file/d/1kdS-Ax4ceE1n7WGl9neehm_mGyPH_-ru/view?usp=sharing).
+- [@Checkout My Portfolio](https://jaswants-portfolio.netlify.app/#/).
+- [@Checout My Resume](https://drive.google.com/file/d/1kdS-Ax4ceE1n7WGl9neehm_mGyPH_-ru/view?usp=sharing).
 
 
 ### Professional Summary
@@ -19,6 +19,7 @@ to make impact on the company's
 growth as well as personal growth
 by contributing technical and
 interpersonal skills.
+
 - 👯 I’m looking to collaborate on project which makes life of the people better
 - 💬 Ask me about Data Structure, Algorithms, JavaScript, HTML, CSS, REACT, REDUX, MUI, NodeJS, ExpressJS,MongoDB
 
