@@ -13,13 +13,12 @@ I am blessed with ✨ **Problem Solving**  ✨ skill
 ### About Me
 
 - 🔭 I’m a full stack developer
-- 🌱 I’m currently learning backend 
+- 🌱 I’m currently looking for an opportunity to make impact on the company's growth as well as personal growth by contributing technical and interpersonal skills. 
 - 👯 I’m looking to collaborate on project which makes life of the people better
-- 🤔 I’m looking for an opportunity where I can use my technical skills, interpersonal skills and passion to create something which is asset to the company and makes life of people easier
 - 💬 Ask me about Data Structure, Algorithms, JavaScript, HTML, CSS, REACT, REDUX, MongoDB, MUI, Chackra UI
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=jchy&label=Profile%20views&color=0e75b6&style=flat" alt="jchy" /> </p>
 - <p align="left"> <a href="https://twitter.com/recjaswantcse" target="blank"><img src="https://img.shields.io/twitter/follow/recjaswantcse?logo=twitter&style=for-the-badge" alt="recjaswantcse" /></a> </p>
 
