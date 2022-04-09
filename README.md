@@ -14,10 +14,10 @@ I am blessed with ✨ **Problem Solving**  ✨ skill
 - 🌱 I’m currently looking for an opportunity to make impact on the company's growth as well as personal growth by contributing technical and interpersonal skills. 
 - 👯 I’m looking to collaborate on project which makes life of the people better
 - 💬 Ask me about Data Structure, Algorithms, JavaScript, HTML, CSS, REACT, REDUX, MUI, NodeJS, ExpressJS,MongoDB
-- 📫 How to reach me: ...
-- [Linkedin](https://www.linkedin.com/in/jaswant-chaudhary-651768194/).
-- Email : recjaswantcse@gmail.com
-- Call me on : +91 9648976787
+- 📫 How to reach me:
+  - [Contact me on Linkedin](https://www.linkedin.com/in/jaswant-chaudhary-651768194/)
+  - Email : recjaswantcse@gmail.com
+  - Call me on : +91 9648976787
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=jchy&label=Profile%20views&color=0e75b6&style=flat" alt="jchy" /> </p>
 - <p align="left"> <a href="https://twitter.com/recjaswantcse" target="blank"><img src="https://img.shields.io/twitter/follow/recjaswantcse?logo=twitter&style=for-the-badge" alt="recjaswantcse" /></a> </p>
