@@ -6,7 +6,7 @@
 I am blessed with ✨ **Problem Solving**  ✨ skill
 
 - [@Checkout My Portfolio](https://jaswants-portfolio.netlify.app/#/).
-- [@Checout My Resume](https://drive.google.com/file/d/1kdS-Ax4ceE1n7WGl9neehm_mGyPH_-ru/view?usp=sharing).
+- [@Checout My Resume](https://drive.google.com/drive/u/0/folders/1JUV4J9HOYMO49WGwEBJbv9sF3pxvilp9).
 
 
 ### Professional Summary
